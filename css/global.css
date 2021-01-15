@@ -1,0 +1,15 @@
+@import url("//hello.myfonts.net/count/3ccba8");
+
+@font-face {
+  font-family: 'NeueHaasGroteskTextRegular';
+  src: url('../fonts/NeueHaasGroteskTextRegular/font.woff2') format('woff2'), url('../fonts/NeueHaasGroteskTextRegular/font.woff') format('woff');
+}  
+
+@font-face {
+    font-family: 'NeueHaasGroteskDisplayRegular';
+    src: url('../fonts/NeueHaasGroteskDisplayRegular/font.otf') format('opentype');
+  }  
+
+a {
+    text-decoration: none;
+}

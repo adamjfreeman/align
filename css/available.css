@@ -1,0 +1,55 @@
+.container {
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.container-h1 {
+    size: 100px;
+    font-weight: bold;
+    font: normal normal normal 40px/23px 'NeueHaasGroteskDisplayRegular';
+}
+
+.container-h2 {
+    size: 60px;
+    font: normal normal italic 25px/14px 'NeueHaasGroteskTextRegular';
+}
+
+.container-h3 {
+    size: 40px;
+    font: normal normal lighter 16px/26px 'NeueHaasGroteskTextRegular';
+}
+
+
+
+
+.calendar {
+    text-align: center;
+}
+
+.addeventatc_icon {
+    display: none;
+}
+.addeventatc {
+    height: 104px;
+    width: 230px;
+    padding: 0 !important;
+    border: 0 !important;
+    outline-color: transparent !important;
+    text-shadow: none !important;
+    background-size: contain !important;
+    margin: 80px 20px 0;
+}
+
+.addeventatc.dayOne {
+    box-shadow: none !important;
+    background: url('../img/availableSoon/day1.png') 0 0 no-repeat transparent;
+}
+.addeventatc.dayTwo {
+    box-shadow: none !important;
+    background: url('../img/availableSoon/day2.png') 0 0 no-repeat transparent;
+}
+.addeventatc.dayThree {
+    box-shadow: none !important;
+    background: url('../img/availableSoon/day3.png') 0 0 no-repeat transparent;
+}
