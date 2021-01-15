@@ -1,0 +1,32 @@
+.container {
+    text-align: center;
+    padding-top: 50px;
+
+}
+
+.container-h1 {
+    size: 100px;
+    font-weight: bold;
+
+}
+
+.container-h2 {
+    size: 60px;
+    font-style: italic;
+
+}
+
+.container-h3 {
+    size: 40px;
+    font-weight: lighter;
+
+}
+
+
+
+
+.calendar {
+   padding-left: 40%;
+   padding-right: auto;
+}
+
